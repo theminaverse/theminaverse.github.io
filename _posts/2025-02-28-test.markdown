@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Test"
+date:   2025-02-28
+categories: jekyll update
+---
+Am trying first markdown post, in the '_posts' directory. 
