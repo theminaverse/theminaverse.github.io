@@ -1,4 +1,13 @@
 source "https://rubygems.org"
+source "https://rubygems.org"
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+
+# Add these gems - they're required for Ruby 3.1+
+gem "csv", "~> 3.0"
+gem "logger", "~> 1.5"
+gem "base64", "~> 0.2"
+gem "bigdecimal", "~> 3.0"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
