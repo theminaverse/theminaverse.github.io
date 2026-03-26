@@ -21,6 +21,6 @@ If you're here thinking I have it all figured out, you're in the wrong place. I'
 
 Welcome to the chaos. 
 
-
+---
 
 *Last updated: {{ site.time | date: "%B %Y" }}*
