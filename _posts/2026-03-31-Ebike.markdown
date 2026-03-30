@@ -1,0 +1,52 @@
+---
+layout: post
+title: "he Inconvenient Truth about E-Bike Subsidies"
+date: 2026-03-31
+categories: [Paper]
+---
+
+## Electric Bicycles and Public Transport Tickets: Ownership and Car Use Patterns  
+**Nils Christian Hoenow, Viola Helmers, Eva H. Yang (RWI, 2024)**
+
+If you thought subsidizing e-bikes was the silver bullet for reducing car use, this paper delivers a strong reality check.
+
+> "Does buying an e-bike actually make you drive less?"
+
+Using a large German dataset and propensity score matching (PSM), the authors uncover a stark contrast between user groups.
+
+### Key Findings
+
+- **E-bike owners:**
+  - Older, wealthier, rural men
+  - Treat e-bikes as a **complement** to cars
+  - Minor short-term reductions in driving
+  - **No change in annual car mileage**
+
+- **Public transport ticket holders:**
+  - Younger, urban women
+  - Use transit as a **substitute** for cars
+  - **~4,200 km reduction per year**
+
+---
+
+## Takeaway: Fund Infrastructure
+
+- E-bike subsidies → **limited impact on decarbonization**
+- Public transit investment → **substantial reduction in car use**
+
+> If governments are serious about reducing emissions,  
+> they should invest in systems that actually replace cars.
+
+**Real modal shift comes from public transport, not e-bikes.**
+
+전기자전거가 친환경 모빌리티의 희망인가?
+
+> "그래서 전기자전거 사면 진짜 차를 덜 타나?"
+
+독일의 대규모 설문 데이터와 성향점수매칭(PSM) 결과: 
+
+- 전기자전거 소유자 vs 대중교통 정기권 소유자 → **완전히 다른 집단**
+- 전기자전거 → **자동차의 보완재**
+- 대중교통 → **자동차의 대체재**
+
+공유자전거가 활성화되어 있는 한국에서는 어떤 결과가 나올까? 
