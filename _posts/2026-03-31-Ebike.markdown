@@ -39,6 +39,8 @@ Using a large German dataset and propensity score matching (PSM), the authors un
 
 **Real modal shift comes from public transport, not e-bikes.**
 
+---
+
 전기자전거가 친환경 모빌리티의 희망인가?
 
 > "그래서 전기자전거 사면 진짜 차를 덜 타나?"
