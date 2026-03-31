@@ -21,18 +21,15 @@ Empirically, the endogenity problem. Carbon prices, energy demand, and macro con
 - **Prices adjust quickly and materially**  
   Domestic output prices increase by up to 6% within three months, passing through to consumers. 
 
-
 Carbon pricing drives the green transition by forcing domestic investment, creating jobs, and raising wages. But also acts as a short-term inflationary shock for consumers, which governments must be prepared for. 
 
-Portugal is a small e
-
-There are limits to how far these results can be generalized. Portugal is a small economy with relatively advanced renewable adoption. In systems with regulated electricity prices, the pass-through channel may be constrained. In such cases, the same shock would likely manifest as financial stress rather than price adjustment.
-
 ---
+
+### Thoughts
+
 
 Further, if firm-level data exists, could we separate technological investment from compliance? Also are these short-run costs offset by the productivity gains over time? 
 
----
 
 탄소 규제가 가격을 올린다. 
 탄소 가격이 오르고 매출도 오르면 그것이 정책 때문인지 경기 때문인지 알 수 없으므로 충격을 이용함. EU 규제 당국의 발표와 관련된 news shock을 뽑아서 그것을 instrument로 사용했음. 
