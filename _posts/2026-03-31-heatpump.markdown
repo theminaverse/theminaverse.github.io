@@ -1,0 +1,46 @@
+---
+layout: post
+title: "Heat Pump Gap Is Built Into the Walls"
+date: 2026-03-31
+categories: [Paper]
+---
+
+**Racial Disparities in Clean Energy Adoption: Evidence from Heat Pump Uptake**
+by Xingchi Shen (2023, Working Paper)
+
+> Despite substantial policy efforts to subsidize clean energy technologies, adoption rates remain uneven across racial groups. Using household-level data across multiple U.S. states, this paper shows that structural housing characteristics play a dominant role in explaining disparities in heat pump adoption. The findings suggest that standard subsidy policies may unintentionally exacerbate inequality.
+
+For years, the story sounded clean and comforting: if some households lag behind in adopting green technology, it must be because they can’t afford it. Fix income, fix the problem. But apparently what looks like a budget constraint turns out to embedded in the physical structure of housing. 
+
+- **Machine Learning Decomposition**. 
+  Using **LASSO**, the author forces the data to reveal which variables actually matter. 
+-  **Shapley Value decomposition**
+  it tells you how much of the observed racial gap can be attributed to each factor. 
+
+Building Age dominates. 
+
+- **Panel Data with Two-Way Fixed Effects**, tracking the same households over time. 
+  By exploiting **exogenous shocks**, unusually cold winters and spikes in natural gas prices, the author isolates changes in incentives that are plausibly unrelated to household characteristics. 
+  When heat pumps suddenly become more valuable, adoption increases, but disproportionately among households already living in newer homes. In other words, the **extensive margin** (whether you adopt at all) is constrained by housing infrastructure, not just willingness or ability to pay.
+
+- **Difference-in-Differences design** along a policy boundary. 
+  By comparing households just across the Maryland-Virginia border, paired using **K-Nearest Neighbors matching**, it compares households with the same climate, similar neighborhoods and different policy exposure.
+
+So it's not 
+- “Can you afford the heat pump?”
+
+It’s:
+- “Can your house even support one without major retrofitting?”
+
+---
+
+### Thoughts
+
+Building age can be a proxy for not only insulation but also neighborhood investment/landlord behavior in rental markets. Also policy effectiveness could vary with different housing/credit markets based on the geographical divide. 
+
+So this means cash rebates are going to households who will adopt anyway (selection bias)? Low interest loans are more efficient? But because of risk aversion and credit distrust, especially in historically marginalized communities, maybe households are not willing to take on debt. 
+
+---
+
+돈 없어서 못 산다가 아니라 집 자체가 문제다. 
+소득이 같아도, 흑인/히스패닉 가구는 더 오래된 집에 묶여 있고, 그 집은 히트펌프 설치 자체가 구조적으로 어렵다 (단열 x, 전기설비 x). 

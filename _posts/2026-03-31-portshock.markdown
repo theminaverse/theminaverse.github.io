@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Carbon Policy Isn’t Killing Firms — It’s Quietly Billing Consumers"
+title: "Carbon Policy News Impact on Energy Industry"
 date: 2026-03-31
-categories: [PaperSummary]
+categories: [Paper]
 ---
 
 **The Impact of Carbon Policy News on the National Energy Industry**  
