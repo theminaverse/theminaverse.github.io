@@ -1,0 +1,8 @@
+---
+layout: post
+title: "HBD"
+date: 2026-04-07
+categories: [Paper]
+---
+
+HBD to me yay 
